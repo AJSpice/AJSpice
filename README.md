@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AJSpice
+- 👀 I'm interested in Network Automation, Scripting + Automation and Cloud Technologies
+- 🌱 I’m currently learning my CCNP ENCOR + ENAUTO, Ansible and Python!
+- 💞️ I’m looking to collaborate on ... Any Networking Engineer projects, especially regarding Ansible/Automation projects
+- 📫 How to reach me: https://www.linkedin.com/in/anthony-spice-b672bb156
